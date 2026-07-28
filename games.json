@@ -40,7 +40,7 @@
     "title": "Pixel Perfect",
     "version": "0.0.0",
     "status": "planned",
-    "visible": true,
+    "visible": false,
     "description": "Platziere einen Pixel auf einer weißen Leinwand und erstelle Kunstwerke mit anderen Spielern zusammen.",
     "tags": ["Pixel", "Leinwand", "Kunstwerke", "Seasons"]
   },
@@ -49,7 +49,7 @@
     "title": "Jeopardy",
     "version": "0.0.0",
     "status": "planned",
-    "visible": true,
+    "visible": false,
     "description": "",
     "tags": ["", "", "", ""]
   },
@@ -103,7 +103,7 @@
     "title": "Schwimmen",
     "version": "0.0.0",
     "status": "planned",
-    "visible": true,
+    "visible": false,
     "description": "",
     "tags": ["Schnauz", "Knack", "", ""]
   },
@@ -112,7 +112,7 @@
     "title": "Roll-O-Rama",
     "version": "0.0.0",
     "status": "planned",
-    "visible": true,
+    "visible": false,
     "description": "",
     "tags": ["Würfel", "Punkte", "PvP", "Gruppe empfohlen"]
   },
@@ -130,7 +130,7 @@
     "title": "Life Simulator",
     "version": "0.0.0",
     "status": "planned",
-    "visible": true,
+    "visible": false,
     "description": "Not planned in early access.",
     "tags": ["", "", "", ""]
   },
@@ -139,7 +139,7 @@
     "title": "Galaxy Control",
     "version": "0.0.0",
     "status": "planned",
-    "visible": true,
+    "visible": false,
     "description": "Not planned in early access.",
     "tags": ["", "", "", ""]
   },
@@ -148,7 +148,7 @@
     "title": "Let's Watch!",
     "version": "0.0.0",
     "status": "planned",
-    "visible": true,
+    "visible": false,
     "description": "Not planned in early access.",
     "tags": ["", "", "", ""]
   }
