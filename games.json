@@ -1,0 +1,155 @@
+[
+  {
+    "id": "buzzerraum",
+    "title": "Buzzerraum",
+    "version": "0.2.0",
+    "status": "ready",
+    "visible": true,
+    "description": "Schnelle Reaktionsrunden mit Buzzer-Logik.",
+    "tags": ["Gruppe", "Reaktion"]
+  },
+  {
+    "id": "quizpoker",
+    "title": "Quizpoker",
+    "version": "0.2.0",
+    "status": "ready",
+    "visible": true,
+    "description": "Poker trifft Quizshow. Für moderierte Online-Runden mit mehreren Spielern.",
+    "tags": ["Gruppe empfohlen", "Online", "Moderator"]
+  },
+  {
+    "id": "rankraiders",
+    "title": "Rank Raiders",
+    "version": "0.2.0",
+    "status": "ready",
+    "visible": true,
+    "description": "Team-Ratespiel: Biete in einer Auktion, wie viele Einträge einer Top-Liste dein Team nennen kann.",
+    "tags": ["Gruppe optional", "Teams", "Auktion"]
+  },
+  {
+    "id": "farkle",
+    "title": "Farkle",
+    "version": "0.0.0",
+    "status": "planned",
+    "visible": false,
+    "description": "Ein einfaches rundenbasiertes Würfelspiel, sammelt Punkte mit den Augen, aber achtet auf den Farkle.",
+    "tags": ["Einzelspieler", "Mehrspieler", "Würfel", "Glücksspiel"]
+  },
+  {
+    "id": "pixelperfect",
+    "title": "Pixel Perfect",
+    "version": "0.0.0",
+    "status": "planned",
+    "visible": true,
+    "description": "Platziere einen Pixel auf einer weißen Leinwand und erstelle Kunstwerke mit anderen Spielern zusammen.",
+    "tags": ["Pixel", "Leinwand", "Kunstwerke", "Seasons"]
+  },
+  {
+    "id": "jeopardy",
+    "title": "Jeopardy",
+    "version": "0.0.0",
+    "status": "planned",
+    "visible": true,
+    "description": "",
+    "tags": ["", "", "", ""]
+  },
+  {
+    "id": "traitorquiz",
+    "title": "Traitorquiz",
+    "version": "0.0.0",
+    "status": "planned",
+    "visible": true,
+    "description": "",
+    "tags": ["", "", "", ""]
+  },
+  {
+    "id": "ordnungshueter",
+    "title": "Ordnungshüter",
+    "version": "0.0.0",
+    "status": "planned",
+    "visible": true,
+    "description": "",
+    "tags": ["", "", "", ""]
+  },
+  {
+    "id": "sloxicon",
+    "title": "Sloxicon Quiz",
+    "version": "0.0.0",
+    "status": "planned",
+    "visible": true,
+    "description": "",
+    "tags": ["", "", "", ""]
+  },
+  {
+    "id": "zuordnen",
+    "title": "Zuordnen",
+    "version": "0.0.0",
+    "status": "planned",
+    "visible": true,
+    "description": "",
+    "tags": ["", "", "", ""]
+  },
+  {
+    "id": "wiepasstdaszusammen",
+    "title": "Wie passt das zusammen?",
+    "version": "0.0.0",
+    "status": "planned",
+    "visible": true,
+    "description": "",
+    "tags": ["", "", "", ""]
+  },
+  {
+    "id": "schwimmen",
+    "title": "Schwimmen",
+    "version": "0.0.0",
+    "status": "planned",
+    "visible": true,
+    "description": "",
+    "tags": ["Schnauz", "Knack", "", ""]
+  },
+  {
+    "id": "rollorama",
+    "title": "Roll-O-Rama",
+    "version": "0.0.0",
+    "status": "planned",
+    "visible": true,
+    "description": "",
+    "tags": ["Würfel", "Punkte", "PvP", "Gruppe empfohlen"]
+  },
+  {
+    "id": "schach",
+    "title": "Schach",
+    "version": "0.0.0",
+    "status": "planned",
+    "visible": false,
+    "description": "Not planned in early access.",
+    "tags": ["", "", "", ""]
+  },
+  {
+    "id": "lifesim",
+    "title": "Life Simulator",
+    "version": "0.0.0",
+    "status": "planned",
+    "visible": true,
+    "description": "Not planned in early access.",
+    "tags": ["", "", "", ""]
+  },
+  {
+    "id": "galaxycontrol",
+    "title": "Galaxy Control",
+    "version": "0.0.0",
+    "status": "planned",
+    "visible": true,
+    "description": "Not planned in early access.",
+    "tags": ["", "", "", ""]
+  },
+  {
+    "id": "letswatch",
+    "title": "Let's Watch!",
+    "version": "0.0.0",
+    "status": "planned",
+    "visible": true,
+    "description": "Not planned in early access.",
+    "tags": ["", "", "", ""]
+  }
+]
