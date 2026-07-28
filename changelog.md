@@ -17,4 +17,5 @@ Status-Werte: planning (blau), work (gelb), ready (grün).
 - version: buzzerraum 0.1.0 -> 0.2.0
 - version: quizpoker 0.1.0 -> 0.2.0
 - version: rankraiders 0.1.0 -> 0.2.0
-- note: Remote-Spielkatalog + Changelog-Anzeige im Launcher eingeführt.
+- note: Remote-Gamescatalog + Added Changelog-Display in Launcher.
+- note: App will now check the Remote-Gamescatalog for games, version and status.
