@@ -14,4 +14,7 @@ Status-Werte: planning (blau), work (gelb), ready (grün).
 -->
 
 ## 2026-07-28
+- version: buzzerraum 0.1.0 -> 0.2.0
+- version: quizpoker 0.1.0 -> 0.2.0
+- version: rankraiders 0.1.0 -> 0.2.0
 - note: Remote-Spielkatalog + Changelog-Anzeige im Launcher eingeführt.
