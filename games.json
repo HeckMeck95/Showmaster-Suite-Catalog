@@ -3,6 +3,8 @@
     "id": "buzzerraum",
     "title": "Buzzerraum",
     "version": "0.2.0",
+    "conceptBy": "Naveelea",
+    "elaboratedBy": "HeckMeck",
     "status": "ready",
     "visible": true,
     "description": "Schnelle Reaktionsrunden mit Buzzer-Logik.",
