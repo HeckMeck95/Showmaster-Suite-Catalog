@@ -46,10 +46,10 @@
   {
     "id": "sloxicon",
     "title": "Sloxicon Quiz",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "conceptBy": "",
     "elaboratedBy": "",
-    "status": "planned",
+    "status": "work",
     "visible": true,
     "description": "",
     "tags": ["", "", "", ""]
