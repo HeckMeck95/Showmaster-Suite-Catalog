@@ -13,6 +13,11 @@ roh angezeigt statt eines lokalisierten Titels. Farben/Stil sind fest im App-Cod
 Status-Werte: planning (blau), work (gelb), ready (grün).
 -->
 
+## 2026-09-01
+- version: sloxicon 0.0.0 -> 0.0.1
+- status: sloxicon work
+- note: We are happy to announce that we already prepared the app for optional DLCs and started working on our first DLC: The Sloxicon Quiz! Stay tuned on our Discord for more Updates and previews on this new game.
+
 ## 2026-07-28
 - version: buzzerraum 0.1.0 -> 0.2.0
 - version: quizpoker 0.1.0 -> 0.2.0
