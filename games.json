@@ -85,6 +85,7 @@
     "elaboratedBy": "",
     "status": "planned",
     "visible": true,
+    "dlcAppId": ,
     "description": "",
     "tags": ["", "", "", ""]
   },
@@ -95,6 +96,7 @@
     "conceptBy": "",
     "elaboratedBy": "",
     "status": "planned",
+    "dlcAppId": ,
     "visible": true,
     "description": "",
     "tags": ["", "", "", ""]
@@ -107,6 +109,7 @@
     "elaboratedBy": "",
     "status": "planned",
     "visible": true,
+    "dlcAppId": ,
     "description": "",
     "tags": ["", "", "", ""]
   },
@@ -129,6 +132,7 @@
     "elaboratedBy": "",
     "status": "planned",
     "visible": true,
+    "dlcAppId": ,
     "description": "",
     "tags": ["", "", "", ""]
   },
@@ -140,6 +144,7 @@
     "elaboratedBy": "",
     "status": "planned",
     "visible": true,
+    "dlcAppId": ,
     "description": "",
     "tags": ["", "", "", ""]
   },
